@@ -78,6 +78,5 @@ Let’s build something amazing together!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedALJebali&layout=compact&theme=radical" alt="Top Languages" /> 
   <br/>
-  <a href="mailto:ahmedaljebalii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedALJebali&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
